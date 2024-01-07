@@ -1,0 +1,7 @@
+### VS Code ###
+.vscode/
+
+
+### Jetbrains ###
+.idea/*
+*.iml
