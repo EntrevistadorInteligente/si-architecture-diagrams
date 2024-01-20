@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T03:02:19.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="I39gXdXpCGbcrkI7prG5" version="22.1.20" type="device" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-20T02:01:48.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="o5osis3cZV9BpOXnPG0h" version="22.1.21" type="device" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Driagrama de flujo">
     <mxGraphModel dx="3044" dy="2525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_Tw5yXQrdK_jVX-L5AhE" name="Diagrama de arquitectura">
-    <mxGraphModel dx="3640" dy="2343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2819" dy="1978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,10 +181,10 @@
             <mxPoint x="-31" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hdszNxT6--n5JB6a5EMV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MK39H2_sIX_CrVEcfrlE-1" target="BbVS6C69vHKNdvWaCgEk-43">
+        <mxCell id="hdszNxT6--n5JB6a5EMV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MK39H2_sIX_CrVEcfrlE-1" target="BbVS6C69vHKNdvWaCgEk-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hdszNxT6--n5JB6a5EMV-2" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hdszNxT6--n5JB6a5EMV-1">
+        <mxCell id="hdszNxT6--n5JB6a5EMV-2" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hdszNxT6--n5JB6a5EMV-1" vertex="1" connectable="0">
           <mxGeometry x="0.5983" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -209,7 +209,7 @@
             <mxPoint x="889" y="-40" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hdszNxT6--n5JB6a5EMV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hrMT0p6hW7YNOZe7QX4-1" target="hdszNxT6--n5JB6a5EMV-6">
+        <mxCell id="hdszNxT6--n5JB6a5EMV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7hrMT0p6hW7YNOZe7QX4-1" target="hdszNxT6--n5JB6a5EMV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7hrMT0p6hW7YNOZe7QX4-1" value="recopilador&lt;br&gt;informacion Empresa(PTH)" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
@@ -254,7 +254,7 @@
           <mxGeometry x="850" y="640" width="112.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R8jU-wJ4KfyQZDHequ2U-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-455" y="230" width="30" height="60" as="geometry" />
+          <mxGeometry x="-640" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R8jU-wJ4KfyQZDHequ2U-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.456;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="R8jU-wJ4KfyQZDHequ2U-4" target="ive5ylKGiLo58AgqGxgb-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -265,7 +265,7 @@
         <mxCell id="P2YSvC09_nZTGuszsQcX-3" value="Feedback completo" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="680" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="hdszNxT6--n5JB6a5EMV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bvOwgW89cS9pIb3cwINh-3" target="MK39H2_sIX_CrVEcfrlE-1">
+        <mxCell id="hdszNxT6--n5JB6a5EMV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bvOwgW89cS9pIb3cwINh-3" target="MK39H2_sIX_CrVEcfrlE-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bvOwgW89cS9pIb3cwINh-3" value="Generar feedback (JAVA)" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
@@ -322,10 +322,10 @@
           <mxGeometry x="90" y="-510" width="370" height="360" as="geometry" />
         </mxCell>
         <mxCell id="PwCZPx-M4Dng1062TTxa-1" value="&lt;br&gt;Hoja de Vida y Puesto" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="80" y="-460" width="140" height="90" as="geometry" />
+          <mxGeometry x="70" y="-480" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3X6doPTOEM_ykb_XEn5g-1" value="Formulario &lt;br&gt;puesto" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="298.75" width="100" height="61.25" as="geometry" />
+          <mxGeometry x="-140" y="215" width="100" height="61.25" as="geometry" />
         </mxCell>
         <mxCell id="2ltroBmK2UhHmXc0UweN-2" value="tambien algun metodo para &lt;br&gt;controlar que los archivos &lt;br&gt;procesados si correspondan a Cvs y ofertas, y no depronto el pdf de un" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="172.42" y="-370" width="227.58" height="80" as="geometry" />
@@ -383,7 +383,7 @@
         <mxCell id="BbVS6C69vHKNdvWaCgEk-63" value="mensajes" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="350" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hdszNxT6--n5JB6a5EMV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BbVS6C69vHKNdvWaCgEk-66" target="BbVS6C69vHKNdvWaCgEk-53">
+        <mxCell id="hdszNxT6--n5JB6a5EMV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BbVS6C69vHKNdvWaCgEk-66" target="BbVS6C69vHKNdvWaCgEk-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BbVS6C69vHKNdvWaCgEk-66" value="actuizacion de estados" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -418,11 +418,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hdszNxT6--n5JB6a5EMV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hdszNxT6--n5JB6a5EMV-6" target="MK39H2_sIX_CrVEcfrlE-1">
+        <mxCell id="hdszNxT6--n5JB6a5EMV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hdszNxT6--n5JB6a5EMV-6" target="MK39H2_sIX_CrVEcfrlE-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hdszNxT6--n5JB6a5EMV-6" value="acualizzando &lt;br&gt;los estados&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hdszNxT6--n5JB6a5EMV-6" value="acualizzando &lt;br&gt;los estados&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="30" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="16AvDH3U5VYdPH64AMo1-2" value="Login&lt;br&gt;(OAuth 2.0)" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="215" width="90" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
